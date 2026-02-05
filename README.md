@@ -10,7 +10,7 @@ A Python program that calculates ages for people based on their birth dates and 
 - **Deceased Handling**: Calculates both age at death and current age (what they would be today)
 - **Reusable Output**: Generated CSV files can be used as input for subsequent runs
 
-## Installation
+## Installation 
 
 1. Install Python 3.6 or higher
 2. Install required dependencies:
